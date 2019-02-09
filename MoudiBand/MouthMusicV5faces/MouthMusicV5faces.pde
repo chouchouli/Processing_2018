@@ -22,8 +22,6 @@ Sound s;
 OscP5 oscP5;
 SoundFile eyeSmall;
 SoundFile eyeBig;
-SoundFile smile;
-SoundFile mouthBig;
 SoundFile c;
 SoundFile d;
 SoundFile e;
@@ -68,10 +66,8 @@ void setup() {
   oscP5.plug(this, "rawData", "/raw");
 
   s = new Sound(this);
-  smile= new SoundFile(this, "laugh1.wav");
   eyeSmall = new SoundFile(this, "drum.wav");
   eyeBig = new SoundFile(this, "bass.wav");
-  mouthBig = new SoundFile(this, "funk.wav");
 
   c = new SoundFile(this, "c.wav");
   d = new SoundFile(this, "d.wav");
