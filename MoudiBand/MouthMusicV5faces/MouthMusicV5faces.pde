@@ -3,9 +3,9 @@
 // Kyle McDonald's FaceOSC v.1.1 
 // https://github.com/kylemcdonald/ofxFaceTracker
 //
-// for Thesis 1 project - Moudi Band from Parsons, Design and Technology
+// for Thesis 1 project - Moudi Band version 5 - Parsons, Design and Technology
 // Adapted by Yasong Li (Chouchou)
-// 
+// https://github.com/chouchouli/Processing_2018/tree/master/MoudiBand/MouthMusicV5faces
 
 
 
